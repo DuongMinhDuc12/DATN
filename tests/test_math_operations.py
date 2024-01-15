@@ -8,6 +8,10 @@ def test_add():
     assert add(-1, -1) == -2
     assert add(1,100) == 101
     assert add(6,9) == 11
+    assert add(6,9) == 11
+    assert add(6,9) == 11
+    assert add(6,9) == 11
+    assert add(6,9) == 11
 
 def test_divide():
     assert divide(2, 2) == 2
